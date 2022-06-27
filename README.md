@@ -1,7 +1,3 @@
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-
-# micha3lp.github.io
-
 ## Bienvenidos a la pagina de la materia Comportamiento Organizacional
 
 En el área de dirección y administración de empresas e instituciones indagamos en el tema de la comunicación organizacional que es de suma importancia ya que este nos ayuda a ejercer con eficacia nuestra vida profesional dentro de la organización.
@@ -14,3 +10,5 @@ Para la comunicación organizacional en línea y sin conexión, las categorías 
 
 - La comunicación organizacional interna, es decir, dirigida a aquellos que forman parte de la empresa.
 - La comunicación organizativa externa, que, como se puede adivinar fácilmente, está dirigida a aquellos que conforman el mercado objetivo de la empresa, es decir, los clientes.
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
