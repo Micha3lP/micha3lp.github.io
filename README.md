@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la pagina de la materia Comportamiento Organizacional
 
-You can use the [editor on GitHub](https://github.com/Micha3lP/micha3lp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+En el área de dirección y administración de empresas e instituciones indagamos en el tema de la comunicación organizacional que es de suma importancia ya que este nos ayuda a ejercer con eficacia nuestra vida profesional dentro de la organización.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En la comunicación organizacional hablamos sobre los procesos por los que una empresa comunica lo que es y sus valores corporativos. Lo hace a través de mensajes dirigidos a sus clientes y a todos aquellos colaboradores que están dentro del sistema de producción y administración de la empresa y que deben compartir la misión de la empresa.
 
-### Markdown
+## Comunicación organizacional: 2 Macro Categorías
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para la comunicación organizacional en línea y sin conexión, las categorías de macros son:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Micha3lP/micha3lp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- La comunicación organizacional interna, es decir, dirigida a aquellos que forman parte de la empresa.
+- La comunicación organizativa externa, que, como se puede adivinar fácilmente, está dirigida a aquellos que conforman el mercado objetivo de la empresa, es decir, los clientes.
