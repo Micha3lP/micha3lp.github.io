@@ -4,7 +4,7 @@ En el área de dirección y administración de empresas e instituciones indagamo
 
 En la comunicación organizacional hablamos sobre los procesos por los que una empresa comunica lo que es y sus valores corporativos. Lo hace a través de mensajes dirigidos a sus clientes y a todos aquellos colaboradores que están dentro del sistema de producción y administración de la empresa y que deben compartir la misión de la empresa.
 
-## Comunicación organizacional: 2 Macro Categorías
+## Comunicación organizacional 2 Macro Categorías
 
 Para la comunicación organizacional en línea y sin conexión, las categorías de macros son:
 
